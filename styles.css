@@ -337,6 +337,10 @@ body {
 .event img {
     border: 1rem solid #dadada;
 }
+
+.event img:hover {
+  transform: scale(0.8);
+}
 .Jobs-Offer {
   margin-left: 2rem;
   margin-right: 2rem;
