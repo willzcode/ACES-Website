@@ -324,18 +324,18 @@ body {
 }
 
 .event {
-    margin-left: 6.5rem;
-    margin-top: 2rem;
+  margin-left: 6.5rem;
+  margin-top: 2rem;
 }
 
 .event h2 {
-    margin-left: -5.5rem;
-    margin-bottom: 1rem;
-    text-align: center;
+  margin-left: -5.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
 }
 
 .event img {
-    border: 1rem solid #dadada;
+  border: 1rem solid #dadada;
 }
 
 .event img:hover {
@@ -564,7 +564,7 @@ footer {
   padding: 1rem;
 }
 
-.follow p{
+.follow p {
   margin-top: 2rem;
   text-align: center;
   font-size: small;
