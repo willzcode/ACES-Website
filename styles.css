@@ -564,6 +564,37 @@ footer {
   padding: 1rem;
 }
 
+.follow p{
+  margin-top: 2rem;
+  text-align: center;
+  font-size: small;
+}
+
+.social__icons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.social__icons a {
+  text-decoration: none;
+}
+
+.social__icons .icon {
+  padding: 0.5rem;
+  border-radius: 5px;
+  color: #fff;
+  background-color: blue;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.social__icons .icon:hover {
+  background-color: darkblue;
+}
+
 @media (max-width: 991px) {
   .low {
     grid-template-columns: 1fr;
