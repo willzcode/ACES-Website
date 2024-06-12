@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: whitesmoke;
   font-family: sans-serif;
@@ -398,7 +402,7 @@ body {
   position: relative;
   min-height: 100vh;
   z-index: 0;
-  background: rgba(0, 0, 0, 0.3) url(img/contact1.jpg);
+  background: rgba(0, 0, 0, 0.3) url(assets/contact1.jpg);
   background-size: cover;
   background-blend-mode: darken;
   padding: 30px;
